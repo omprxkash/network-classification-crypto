@@ -1,4 +1,3 @@
-#Intrusion Detection in Computer Networks: A Comparative Analysis of Random Forest and Neural Network Approaches for Real-Time Cyber Threat Identification
+# Intrusion Detection in Computer Networks: A Comparative Analysis of Random Forest and Neural Network Approaches for Real-Time Cyber Threat Identification
 
-Abstract:
 With advancing in tech-stacks, cyber threats are also evolving at exponential rate. In a recent statistics review over cyber-attacks, it has been observed that there are 97 cyber-attack victims are there every hour. To encounter this threat, we require a robust and sophisticated intrusion detection system that can detect the malicious activity in a real-time network traffic. This kind of proficient system can be designed with the help of machine learning and neural network-based technologies. These methods can help to detect the possibility of an unauthorised intervention in the network and report. This project aims to compare multiple approaches in order to identify the anomalies.
